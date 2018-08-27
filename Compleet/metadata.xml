@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>De Ellendigen</dc:title>
+      <dc:creator>Victor Hugo (1802–1885)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., #####</dc:publisher>
+      <dc:date>#####</dc:date>
+      <dc:subject>Historical fiction</dc:subject>
+      <dc:subject>Orphans -- Fiction</dc:subject>
+      <dc:subject>Paris (France) -- Fiction</dc:subject>
+      <dc:subject>Ex-convicts -- Fiction</dc:subject>
+   </rdf:Description>
+</rdf:RDF>
